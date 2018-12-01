@@ -1,3 +1,4 @@
 print "Hello!"
 print "HI!"
 print "Yo!"
+print "Очень приятно с вами познакомиться!"
